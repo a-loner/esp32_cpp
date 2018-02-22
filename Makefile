@@ -1,4 +1,4 @@
-PROJECT_NAME := MIRAGE_Hub
+PROJECT_NAME := Test
 
 include $(IDF_PATH)/make/project.mk
 
